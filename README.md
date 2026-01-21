@@ -24,7 +24,7 @@
 
 ```bash
 # 1. Clone 專案
-git clone https://github.com/[你的帳號]/crypto-com-market-bdd-demo.git
+git clone https://github.com/jasondchentw/crypto-com-api-automation-demo
 cd crypto-com-market-bdd-demo
 
 # 2. 安裝依賴
